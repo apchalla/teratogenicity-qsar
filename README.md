@@ -1,4 +1,5 @@
 # teratogenicity-qsar
+
 This repository contains supplemental code and data files for the publication "Machine learning on drug-specific data to predict small molecule teratogenicity" by Challa et al.
 
 We present our data as follows:
@@ -10,3 +11,4 @@ We present our data as follows:
 3. The "Source Data" folder contains a listing of all drugs evaluated in this project, all drug-matched teratogenicity scores extracted from SafeFetus, and all other data files that are called by the R scripts that we developed for our investigation.
 
 We hope that this supplement supports the reproducibility of our analysis. For extraneous data requests, please contact the Corresponding Author at anup.p.challa.1@vumc.org.
+
